@@ -3,7 +3,6 @@ import folium
 import geopandas as gpd
 from streamlit_folium import folium_static
 import pandas as pd
-from folium.features import GeoJson
 import streamlit as st
 from PIL import Image
 import joblib
