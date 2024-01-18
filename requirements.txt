@@ -1,0 +1,9 @@
+streamlit
+streamlit_folium
+folium.features
+PIL
+sklearn.preprocessing
+sklearn.metrics
+tensorflow.keras.models
+tensorflow.keras.layers
+sklearn.model_selection
