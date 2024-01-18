@@ -1,7 +1,7 @@
 streamlit
 streamlit_folium
 folium
-PIL
+Pillow
 sklearn.preprocessing
 sklearn.metrics
 tensorflow.keras.models
