@@ -3,7 +3,7 @@ import folium
 import geopandas as gpd
 from streamlit_folium import folium_static
 import pandas as pd
-import streamlit as st
+from folium.features import GeoJson
 from PIL import Image
 import joblib
 from sklearn.preprocessing import MinMaxScaler,StandardScaler
